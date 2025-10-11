@@ -84,7 +84,7 @@ me.say_hi()
 </div>
 
 ---
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Subhamsidhanta&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ### 🏆 GitHub Trophies
 
 <div align="center">
