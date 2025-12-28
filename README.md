@@ -73,15 +73,14 @@ me.say_hi()
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=subhamsidhanta&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Subham's GitHub Stats" />
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=subhamsidhanta&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=subhamsidhanta&theme=radical&hide_border=true" />
+</p>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=subhamsidhanta&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866" alt="Subham's Streak Stats" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhamsidhanta&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F" alt="Top Languages" />
-
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhamsidhanta&layout=compact&theme=radical&hide_border=true" />
+</p>
 
 ---
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Subhamsidhanta&theme=react-dark	)](https://github.com/ashutosh00710/github-readme-activity-graph)
